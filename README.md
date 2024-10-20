@@ -24,4 +24,4 @@ Welcome to my GitHub! I'm passionate about creating immersive game experiences w
 I’m driven by the idea of creating interactive worlds where players can immerse themselves, explore, and engage with unique mechanics and stories. From system design to real-time multiplayer game programming, my aim is to push the boundaries of web-based game experiences.
 
 
-##Thanks for visiting my GitHub! Let's create something awesome together 🎮
+<h2>Thanks for visiting my GitHub! Let's create something awesome together 🎮</h2>
