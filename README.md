@@ -4,7 +4,7 @@
 
 Welcome to my GitHub! I'm passionate about creating immersive game experiences with a focus on gameplay mechanics and system design. I love blending creativity and code to bring stories and mechanics to life. Sometimes, I also create websites just as a hobby and to learn new things.
 
-# Certified
+# Certified✅
 <a href="https://www.credly.com/badges/7c3b5d38-5029-40be-8e48-d1fc3e0053ad/linked_in_profile"><img src="https://images.credly.com/size/220x220/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" width="110" height="110">
 
 ## 🔧 Skills & Tools:
