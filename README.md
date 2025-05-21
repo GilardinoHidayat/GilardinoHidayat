@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about creating immersive game experiences w
 
 ## 🔧 Skills & Tools:
 - **Languages**: JavaScript, C#, C++
-- **Game Development**: Unity, Phaser.js, HTML5 Canvas
+- **Game Development**: Unity
 - **Web Technologies**: React, Node.js
 - **Databases**: MongoDB, Firebase, SQL
 - **Version Control**: Git, GitHub
