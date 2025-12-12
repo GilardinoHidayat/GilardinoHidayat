@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Gilardino Hidayat
-
 <table>
 <tr>
 <td width="220">
@@ -8,7 +6,7 @@
      width="200">
 </td>
 <td>
-
+# Gilardino Hidayat
 ### Game Developer | Website Developer | Illustrator
 
 Welcome to my GitHub! I'm passionate about creating immersive game experiences with a focus on gameplay mechanics and system design. I love blending creativity and code to bring stories and mechanics to life. Sometimes, I also create websites just as a hobby and to learn new things.
