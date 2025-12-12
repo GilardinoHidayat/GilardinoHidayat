@@ -28,3 +28,7 @@ I’m driven by the idea of creating interactive worlds where players can immers
 
 
 <h2>Thanks for visiting my GitHub! Let's create something awesome together 🎮</h2>
+<img src="https://drive.google.com/uc?export=view&id=1eARMMEeWOnGOxhwYsXjhpqWVLqEEseIC" 
+     alt="gambar dari Google Drive" 
+     width="300">
+
