@@ -15,12 +15,12 @@ Welcome to my GitHub! I'm passionate about creating immersive game experiences w
 </td>
 </tr>
 </table>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" width="100%"/></a>
+<a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" width="100%"/></a>
 
 # Certified✅
 <a href="https://www.credly.com/badges/7c3b5d38-5029-40be-8e48-d1fc3e0053ad/linked_in_profile"><img src="https://images.credly.com/size/220x220/images/d1f43356-4e1e-424a-99e3-65636d7bc4fd/image.png" width="110" height="110">
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" width="100%"/></a>
+<a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" width="100%"/></a>
 
 ## 🔧 Skills & Tools:
 - **Languages**: JavaScript, C#, C++
@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm passionate about creating immersive game experiences w
 - **Version Control**: Git, GitHub
 - **Design**: Photoshop, Clip Studio Paint, Pixel Studio
 - 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" width="100%"/></a>
+<a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" width="100%"/></a>
 
 ## 🎮 Current Projects:
 - **[Lyrics Directory](https://github.com/GilardinoHidayat/Lyrics-Directory)**: Website that allows users to create, upload, and display song lyrics along with metadata like title, artist, album cover and translation.
@@ -40,7 +40,7 @@ Welcome to my GitHub! I'm passionate about creating immersive game experiences w
 - Real-time multiplayer server architecture
 - Visual effects and shader programming for dynamic environments
 
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" width="100%"/></a>
+<a><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" border="0" alt="animated-line-image-0184" width="100%"/></a>
 
 ## 🚀 Game Development Journey:
 I’m driven by the idea of creating interactive worlds where players can immerse themselves, explore, and engage with unique mechanics and stories. From system design to real-time multiplayer game programming, my aim is to push the boundaries of web-based game experiences.
