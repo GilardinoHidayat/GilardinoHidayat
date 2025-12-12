@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Gilardino Hidayat
 
-# Hi there 👋, I'm Gilardino Hidayat
-
 <table>
 <tr>
 <td width="220">
