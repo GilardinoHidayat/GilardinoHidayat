@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Gilardino Hidayat
 
 <img src="https://drive.google.com/uc?export=view&id=1eARMMEeWOnGOxhwYsXjhpqWVLqEEseIC" 
-     alt="gambar dari Google Drive" 
+     alt="AnimeProfile" 
      width="300">
 
 ### Game Developer | Website Developer | Illustrator
