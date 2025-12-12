@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm passionate about creating immersive game experiences w
 - **Languages**: JavaScript, C#, C++
 - **Game Development**: Unity
 - **Web Technologies**: React, Node.js
-- **Databases**: MongoDB, Firebase, SQL
+- **Databases**: MongoDB, NeonDB, SQL
 - **Version Control**: Git, GitHub
 - **Design**: Photoshop, Clip Studio Paint, Pixel Studio
 
@@ -48,5 +48,5 @@ Welcome to my GitHub! I'm passionate about creating immersive game experiences w
 I’m driven by the idea of creating interactive worlds where players can immerse themselves, explore, and engage with unique mechanics and stories. From system design to real-time multiplayer game programming, my aim is to push the boundaries of web-based game experiences.
 
 
-<h2>Thanks for visiting my GitHub! Let's create something awesome together 🎮</h2>
+<h2>Thanks for visiting my GitHub! Jangan lupa sholat jum'at biar imut🎮</h2>
 
