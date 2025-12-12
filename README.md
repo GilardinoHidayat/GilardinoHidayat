@@ -1,5 +1,9 @@
 # Hi there 👋, I'm Gilardino Hidayat
 
+<img src="https://drive.google.com/uc?export=view&id=1eARMMEeWOnGOxhwYsXjhpqWVLqEEseIC" 
+     alt="gambar dari Google Drive" 
+     width="300">
+
 ### Game Developer | Website Developer | Illustrator
 
 Welcome to my GitHub! I'm passionate about creating immersive game experiences with a focus on gameplay mechanics and system design. I love blending creativity and code to bring stories and mechanics to life. Sometimes, I also create websites just as a hobby and to learn new things.
@@ -28,7 +32,4 @@ I’m driven by the idea of creating interactive worlds where players can immers
 
 
 <h2>Thanks for visiting my GitHub! Let's create something awesome together 🎮</h2>
-<img src="https://drive.google.com/uc?export=view&id=1eARMMEeWOnGOxhwYsXjhpqWVLqEEseIC" 
-     alt="gambar dari Google Drive" 
-     width="300">
 
