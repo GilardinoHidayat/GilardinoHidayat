@@ -3,7 +3,9 @@
 <td width="220">
 <img src="https://drive.google.com/uc?export=view&id=1eARMMEeWOnGOxhwYsXjhpqWVLqEEseIC" 
      alt="AnimeProfile" 
-     width="200">
+     width="200"
+     style="pointer-events:none;"
+     draggable="false">
 </td>
 <td>
 
