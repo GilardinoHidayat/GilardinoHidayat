@@ -2,7 +2,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1eARMMEeWOnGOxhwYsXjhpqWVLqEEseIC" 
      alt="AnimeProfile" 
-     width="300">
+     width="200">
 
 ### Game Developer | Website Developer | Illustrator
 
